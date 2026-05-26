@@ -2,7 +2,7 @@ import { useState, useEffect, useRef, useCallback } from "react";
 import { motion, AnimatePresence, useScroll, useTransform, useSpring, useInView } from "framer-motion";
 
 // ─── CONSTANTS & CONTENT ───────────────────────────────────────────────────────
-const NAME = "[NAME]";
+const NAME = "[Abhi]";
 const NICKNAME = "[NICKNAME]";
 const AGE = "[AGE]";
 const LETTER = `[PASTE LETTER HERE]
